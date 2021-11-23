@@ -3,7 +3,7 @@
 ## What is included in this boilerplate
 - Vue sass
 - Vuex with namespace 
-- Vue router with lazy loading (to do)
+- Vue router with lazy loading
 - Vue-i18n (to do)
 
 ## Package version for apply Sass in Vue@2.6
