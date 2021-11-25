@@ -4,7 +4,8 @@
 - Vue sass
 - Vuex with namespace 
 - Vue router with lazy loading
-- Vue-i18n (to do)
+- Vue-i18n 
+- Vue-i18n translation in router (TBC)
 
 ## Package version for apply Sass in Vue@2.6
 - `"node-sass": "^4.14.1"`
